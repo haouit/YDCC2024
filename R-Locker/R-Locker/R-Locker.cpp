@@ -303,7 +303,6 @@ void PopulateTraps(PVOID lpParameter, BOOLEAN TimerOrWaitFired) {
     std::wcout << "Elapsed time for periodic creation of traps: " << time_taken_traps * 1e-09 << " seconds" << "\n";
 }
 
-int n = 0;
 /*
 bool EnumDirs(std::wstring node) {
     WIN32_FIND_DATA rootData;
@@ -364,8 +363,6 @@ bool EnumDirs(std::wstring node) {
                 whiteList[programPath] = true;
             }
         }
-        n++;
-        if (n % 1000 == 0) printf("%d\n", n);
     } while (FindNextFileW(hFind, &rootData));
     FindClose(hFind);
     return true;
