@@ -1,0 +1,55 @@
+[13:44:26] Log Initialized
+[13:49:42] Program in the white list "C:\Windows\System32\RuntimeBroker.exe" tried to access the trap
+[13:49:42] Program in the white list "C:\Windows\System32\RuntimeBroker.exe[13:49:42]" tried to access the trap
+ Program in the white list "C:\Windows\System32\RuntimeBroker.exe" tried to access the trap
+[13:49:42] Program in the white list "C:\Windows\System32\RuntimeBroker.exe" tried to access the trap
+[13:49:42] Program in the white list "C:\Windows\System32\RuntimeBroker.exe" tried to access the trap
+[13:49:42] Program in the white list "C:\Windows\System32\RuntimeBroker.exe" tried to access the trap
+[13:49:42] Program in the white list "C:\Windows\System32\RuntimeBroker.exe" tried to access the trap
+[13:49:42] Program in the white list "C:\Windows\System32\RuntimeBroker.exe" tried to access the trap
+[13:49:42] Program in the white list "C:\Windows\System32\RuntimeBroker.exe" tried to access the trap
+[13:49:53] Program in the white list "[13:49:53]C:\Windows\System32\RuntimeBroker.exe" tried to access the trap Program in the white list "
+C:\Windows\System32\RuntimeBroker.exe" tried to access the trap
+[13:49:53] Program in the white list "C:\Windows\System32\RuntimeBroker.exe" tried to access the trap
+[13:49:53] Program in the white list "C:\Windows\System32\RuntimeBroker.exe" tried to access the trap
+[13:49:53] Program in the white list "C:\Windows\System32\RuntimeBroker.exe" tried to access the trap
+[13:49:53] Program in the white list "C:\Windows\System32\RuntimeBroker.exe" tried to access the trap
+[13:49:55] Program in the white list "C:\Windows\System32\RuntimeBroker.exe" tried to access the trap
+[13:49:55] Program in the white list "C:\Windows\System32\RuntimeBroker.exe" tried to access the trap
+[13:49:55] Program in the white list "C:\Windows\System32\RuntimeBroker.exe" tried to access the trap
+[13:49:55] Program in the white list "C:\Windows\System32\RuntimeBroker.exe" tried to access the trap
+[13:49:55] Program in the white list "C:\Windows\System32\RuntimeBroker.exe" tried to access the trap
+[13:49:55] Program in the white list "C:\Windows\System32\RuntimeBroker.exe" tried to access the trap
+[13:50:0] C:\Program Files\Microsoft Office\root\Office16\POWERPNT.EXE was terminated and added to black list
+[13:50:0] Program in the black list "C:\Program Files\Microsoft Office\root\Office16\POWERPNT.EXE" tried to access the trap
+[13:50:0] Program in the black list "C:\Program Files\Microsoft Office\root\Office16\POWERPNT.EXE" tried to access the trap
+[13:50:0] Program in the white list "C:\Windows\System32\RuntimeBroker.exe" tried to access the trap
+[13:50:0] Program in the white list "C:\Windows\System32\RuntimeBroker.exe" tried to access the trap[13:50:0]
+ Program in the white list "C:\Windows\System32\RuntimeBroker.exe" tried to access the trap
+[13:50:0] Program in the white list "C:\Windows\System32\RuntimeBroker.exe" tried to access the trap
+[13:50:0] Program in the white list "C:\Windows\System32\RuntimeBroker.exe" tried to access the trap
+[13:50:0] Program in the white list "C:\Windows\System32\RuntimeBroker.exe" tried to access the trap
+[13:50:2] C:\Program Files\Microsoft Office\root\Office16\POWERPNT.EXE was terminated and added to black list
+[13:50:3] C:\Program Files\Microsoft Office\root\Office16\POWERPNT.EXE was terminated and added to black list
+[13:50:3] C:\Program Files\Microsoft Office\root\Office16\POWERPNT.EXE was terminated and added to black list
+[13:50:3] C:\Program Files\Microsoft Office\root\Office16\POWERPNT.EXE was terminated and added to black list
+[13:50:3] C:\Program Files\Microsoft Office\root\Office16\POWERPNT.EXE was terminated and added to black list
+[13:50:3] C:\Program Files\Microsoft Office\root\Office16\POWERPNT.EXE was terminated and added to black list
+[13:50:4] C:\Program Files\Microsoft Office\root\Office16\POWERPNT.EXE was terminated and added to black list
+[13:50:4] C:\Program Files\Microsoft Office\root\Office16\POWERPNT.EXE was terminated and added to black list
+[13:50:4] C:\Program Files\Microsoft Office\root\Office16\POWERPNT.EXE was terminated and added to black list
+[13:50:4] C:\Program Files\Microsoft Office\root\Office16\POWERPNT.EXE was terminated and added to black list
+[13:50:4] C:\Program Files\Microsoft Office\root\Office16\POWERPNT.EXE was terminated and added to black list
+[13:50:5] C:\Program Files\Microsoft Office\root\Office16\POWERPNT.EXE was terminated and added to black list
+[13:50:5] C:\Program Files\Microsoft Office\root\Office16\POWERPNT.EXE was terminated and added to black list
+[13:50:5] C:\Program Files\Microsoft Office\root\Office16\POWERPNT.EXE was terminated and added to black list
+[13:50:5] C:\Program Files\Microsoft Office\root\Office16\POWERPNT.EXE was terminated and added to black list
+[13:50:5] C:\Program Files\Microsoft Office\root\Office16\POWERPNT.EXE was terminated and added to black list
+[13:50:6] C:\Program Files\Microsoft Office\root\Office16\POWERPNT.EXE was terminated and added to black list
+[13:50:6] C:\Program Files\Microsoft Office\root\Office16\POWERPNT.EXE was terminated and added to black list
+[13:50:6] C:\Program Files\Microsoft Office\root\Office16\POWERPNT.EXE was terminated and added to black list
+[13:50:6] C:\Program Files\Microsoft Office\root\Office16\POWERPNT.EXE was terminated and added to black list
+[13:50:7] C:\Program Files\Microsoft Office\root\Office16\POWERPNT.EXE was added to white list
+[13:50:7] C:\Program Files\Microsoft Office\root\Office16\POWERPNT.EXE was added to white list
+[13:50:15] C:\Program Files\Microsoft Office\root\Office16\POWERPNT.EXE was added to white list
+[13:50:22] C:\Program Files\Microsoft Office\root\Office16\POWERPNT.EXE was added to white list
