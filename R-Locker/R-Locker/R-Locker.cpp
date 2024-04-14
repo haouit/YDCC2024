@@ -341,7 +341,7 @@ bool EnumDirs(std::wstring node) {
     return true;
 }
 */
-
+int n = 0;
 bool EnumDirs(std::wstring node) {
     WIN32_FIND_DATA rootData;
     WIN32_FIND_DATA programData;
@@ -358,6 +358,8 @@ bool EnumDirs(std::wstring node) {
             } 
         }
         else {
+            n++;
+            if (n % 1000 == 0) { printf("Processed %d files\n", n); }
             LPDWORD lpBinaryType = new DWORD;
             if (GetBinaryType(programPath.c_str(), lpBinaryType)) {
                 whiteList[programPath] = true;
